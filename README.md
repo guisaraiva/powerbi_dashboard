@@ -22,11 +22,12 @@ Resultado de uma das atividades ministrada no curso "Power BI para Data Science"
 Referência: https://www.datascienceacademy.com.br
 
 Através do gráfico podemos responder as seguintes questões:
-Total de Vendas por Ano
-Custo de Entrega do Veículo Por Fabricante
-Custo de Mão de Obra Por Estado
-Total de Vendas Geral e Matriz de Vendas
+* Total de Vendas por Ano
+* Custo de Entrega do Veículo Por Fabricante
+* Custo de Mão de Obra Por Estado
+* Total de Vendas Geral e Matriz de Vendas
 
-![custo_de_venda](https://user-images.githubusercontent.com/15157510/68630297-9dc19780-04c5-11ea-9313-e76962dbfe58.PNG)
+![custo_de_venda](https://user-images.githubusercontent.com/15157510/68630377-e5e0ba00-04c5-11ea-9df1-7bed911f6e25.PNG)
+
 
 -----------------------------------------------------------------------------------------------------------------------------------
