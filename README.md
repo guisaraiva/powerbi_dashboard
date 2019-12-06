@@ -19,8 +19,6 @@ Um dashboard simples com os dados de uma arquivo contendo as queimadas dos estad
 
 Resultado de uma das atividades ministrada no curso "Power BI para Data Science". Excelente oportunidade de aprendizado à custo "ZERO".
 
-Referência: https://www.datascienceacademy.com.br
-
 Através do gráfico podemos responder as seguintes questões:
 * Total de Vendas por Ano
 * Custo de Entrega do Veículo Por Fabricante
